@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+h1, h3, p {
+    color: white;
+}
+
+p.negrito {
+    font-weight: bold;
+}
+
+p.italico {
+    font-style: italic;
+}
+
+p.pizza {
+    padding-left: 24px;
+}
+
+ol li {
+    color: white;
+}
+
+ul li {
+    color: white;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+img.music {
+    padding-left: 25px;
+}
+
+div.profissao :not(profissao) {
+    padding-left: 25px;
+}
