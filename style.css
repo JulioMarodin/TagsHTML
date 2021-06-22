@@ -38,3 +38,8 @@ img.music {
 div.profissao :not(profissao) {
     padding-left: 25px;
 }
+
+details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+}
