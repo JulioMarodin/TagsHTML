@@ -1,45 +1,48 @@
 body {
-    background-color: black;
+  background-color: black;
 }
 
-h1, h3, p {
-    color: white;
+h1,
+h3,
+p {
+  color: white;
 }
 
 p.negrito {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 p.italico {
-    font-style: italic;
+  font-style: italic;
 }
 
 p.pizza {
-    padding-left: 24px;
+  padding-left: 24px;
 }
 
 ol li {
-    color: white;
+  color: white;
 }
 
 ul li {
-    color: white;
+  color: white;
 }
 
 img {
-    width: 300px;
-    height: 300px;
+  width: 300px;
+  height: 300px;
 }
 
 img.music {
-    padding-left: 25px;
+  padding-left: 25px;
 }
 
 div.profissao :not(profissao) {
-    padding-left: 25px;
+  padding-left: 25px;
 }
 
 details {
-    border: 1px solid #aaa;
-    border-radius: 4px;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  background-color: white;
 }
