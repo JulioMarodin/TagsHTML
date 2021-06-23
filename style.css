@@ -46,3 +46,7 @@ details {
   border-radius: 4px;
   background-color: white;
 }
+
+summary p {
+  color: white;
+}
